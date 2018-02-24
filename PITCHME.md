@@ -3,7 +3,7 @@
 ---
 
 ## Introducción
-###  ¿Para que sirven los plugins?
+###  ¿Para qué sirven los plugins?
 
 ---
 
