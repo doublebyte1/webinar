@@ -8,7 +8,7 @@
 ---
 
 ## Tecnología
-###  ¿Que hay por detrás de un plugin?
+###  ¿Qué hay por detrás de un plugin?
 
 ---
 
