@@ -16,7 +16,7 @@
 
 ---
 
-## ¿Vamos a provar?
+## Parte Práctica
 ###  Crear un proyecto con el Plugin Builder
 
 ---
