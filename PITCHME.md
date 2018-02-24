@@ -10,6 +10,17 @@
 ## Tecnología
 ###  ¿Que hay por detrás de un plugin?
 
+---
+
+## Recapitulación
+
+---
+
+## ¿Vamos a provar?
+###  Crear un proyecto con el Plugin Builder
+
+
+
 
 
 +++
