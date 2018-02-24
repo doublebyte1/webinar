@@ -3,12 +3,12 @@
 ---
 
 ## Introducción
-### Para que sirven los plugins?
+###  ¿Para que sirven los plugins?
 
 ---
 
 ## Tecnología
-### Que hay por detrás de un plugin?
+###  ¿Que hay por detrás de un plugin?
 
 
 
