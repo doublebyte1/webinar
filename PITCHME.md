@@ -29,6 +29,15 @@
 ## Buena Suerte!
 ###  Ahora es vuestro turno
 
+---
+
+## Créditos:
+
+Joana Simões
+
+* @fa[twitter] @doublebyte
+* @fa[github] @doublebyte1
+* @fa[wordpress] doublebyte.net
 
 
 +++
