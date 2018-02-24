@@ -19,6 +19,10 @@
 ## ¿Vamos a provar?
 ###  Crear un proyecto con el Plugin Builder
 
+---
+
+## Estrutura Básica del Plugin
+###  Ficheros generados por el Plugin Builder
 
 
 
