@@ -24,6 +24,10 @@
 ## Estrutura Básica del Plugin
 ###  Ficheros generados por el Plugin Builder
 
+---
+
+## Buena Suerte!
+###  Ahora es vuestro turno
 
 
 
