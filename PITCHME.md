@@ -1,4 +1,4 @@
-# Desarollo de Plugins para QGIS
+# Desarrollo de Plugins para QGIS
 ### Primeros Pasos
 ---
 
